@@ -1,0 +1,19 @@
+{
+    "name": "PaymentDoneEvent",
+    "namespace": "com.valle.ecommerce.payment.event",
+    "type": "record",
+    "fields" : [
+        {
+            "name": "checkoutCode",
+            "type": ["string"]
+        },
+        {
+            "name": "checkoutStatus",
+            "type": ["string"]
+        },
+        {
+            "name": "paymentCode",
+            "type": ["string"]
+        }
+    ]
+}

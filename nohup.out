@@ -1,0 +1,125 @@
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+
+(java:5836): Gtk-WARNING **: 10:52:28.108: Theme parsing error: gtk-dark.css:6361:24: 'none' is not a valid color name
+
+(java:5836): Gtk-WARNING **: 10:52:30.024: Theme parsing error: gtk.css:6361:24: 'none' is not a valid color name
+2021-04-01 10:53:05,579 [  38474]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 15801ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210401-105254-IC-203.7148.57-ProjectFrameHelper.init-15sec 
+2021-04-01 10:53:36,404 [  69299]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 5379ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210401-105336-IC-203.7148.57-RandomAccessFile.readBytes-5sec 
+2021-04-01 10:53:42,295 [  75190]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-04-01 10:53:45,098 [  77993]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 7215ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210401-105342-IC-203.7148.57-ClassLoader.defineClass1-7sec 
+2021-04-01 11:27:30,790 [2103685]  ERROR - terminal.emulator.JediEmulator - Error processing OSC 1;..erce/checkout 
+2021-04-01 11:27:30,891 [2103786]  ERROR - terminal.emulator.JediEmulator - Unhandled Control sequence
+parsed                        :ESC[?2004h
+bytes read                    :ESC[ 
+2021-04-01 11:30:15,534 [2268429]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (29)!!! 
+2021-04-01 11:33:38,657 [2471552]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 11:33:38,661 [2471556]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 11:33:38,665 [2471560]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 11:33:38,665 [2471560]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 11:33:38,666 [2471561]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 11:34:17,242 [2510137]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (16)!!! 
+2021-04-01 11:34:17,252 [2510147]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (17)!!! 
+2021-04-01 11:34:17,259 [2510154]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (17)!!! 
+2021-04-01 11:34:17,262 [2510157]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (17)!!! 
+2021-04-01 11:34:18,097 [2510992]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-01 11:34:18,194 [2511089]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 11:34:18,223 [2511118]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 11:34:18,390 [2511285]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 11:34:18,394 [2511289]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 11:34:19,374 [2512269]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-04-01 11:34:19,378 [2512273]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-04-01 11:34:19,404 [2512299]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-01 11:34:19,484 [2512379]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-01 11:34:19,546 [2512441]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-01 11:34:19,580 [2512475]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-01 13:14:45,816 [8538711]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-01 13:14:45,967 [8538862]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-01 13:14:45,979 [8538874]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (17)!!! 
+2021-04-01 13:14:45,983 [8538878]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (18)!!! 
+2021-04-01 13:14:46,058 [8538953]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (21)!!! 
+2021-04-01 13:14:46,220 [8539115]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (23)!!! 
+2021-04-01 13:14:46,227 [8539122]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (23)!!! 
+2021-04-01 13:14:46,238 [8539133]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (23)!!! 
+2021-04-01 13:26:50,720 [9263615]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-01 13:26:50,723 [9263618]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-01 13:26:50,725 [9263620]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-01 13:33:23,439 [9656334]   WARN - tartup.impl.StartupManagerImpl - Activities registered via registerPostStartupActivity must be dumb-aware: com.intellij.ide.impl.NewProjectUtil$$Lambda$5651/0x0000000103045840@6d83583 
+2021-04-01 13:37:46,055 [9918950]   WARN - ystem.impl.ActionPopupMenuImpl - 2885ms to fill popup menu ProjectViewPopup 
+OpenJDK 64-Bit Server VM warning: Option UseConcMarkSweepGC was deprecated in version 9.0 and will likely be removed in a future release.
+
+(java:5346): Gtk-WARNING **: 09:12:05.885: Theme parsing error: gtk-dark.css:6361:24: 'none' is not a valid color name
+
+(java:5346): Gtk-WARNING **: 09:12:09.762: Theme parsing error: gtk.css:6361:24: 'none' is not a valid color name
+2021-04-02 09:12:50,629 [  45111]   WARN - .diagnostic.PerformanceWatcher - UI was frozen for 16291ms, details saved to /home/leonardovallem/.cache/JetBrains/IdeaIC2020.3/log/threadDumps-freeze-20210402-091239-IC-203.7148.57-ProjectFrameHelper.init-16sec 
+2021-04-02 09:13:26,281 [  80763]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-04-02 09:16:02,489 [ 236971]   WARN - ge.ExternalProjectsDataStorage - Cannot find class `org.jetbrains.plugins.gradle.model.data.AnnotationProcessingData$AnnotationProcessorOutput` 
+2021-04-02 09:32:02,225 [1196707]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-04-02 10:14:06,105 [3720587]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (16)!!! 
+2021-04-02 10:14:06,607 [3721089]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (29)!!! 
+2021-04-02 10:14:06,616 [3721098]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (29)!!! 
+2021-04-02 10:20:12,049 [4086531]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-04-02 10:20:12,057 [4086539]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-04-02 10:23:27,675 [4282157]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (16)!!! 
+2021-04-02 10:23:34,359 [4288841]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (23)!!! 
+2021-04-02 10:26:18,350 [4452832]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (20)!!! 
+2021-04-02 10:26:18,353 [4452835]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (20)!!! 
+2021-04-02 10:26:18,356 [4452838]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (20)!!! 
+2021-04-02 10:26:30,623 [4465105]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-04-02 10:26:30,657 [4465139]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-04-02 10:26:41,109 [4475591]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (20)!!! 
+2021-04-02 10:26:41,111 [4475593]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (21)!!! 
+2021-04-02 10:26:41,116 [4475598]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (21)!!! 
+2021-04-02 10:26:42,905 [4477387]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (30)!!! 
+2021-04-02 10:26:44,618 [4479100]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (59)!!! 
+2021-04-02 10:26:46,106 [4480588]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (20)!!! 
+2021-04-02 10:26:46,113 [4480595]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (20)!!! 
+2021-04-02 10:26:50,091 [4484573]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (17)!!! 
+2021-04-02 10:26:51,587 [4486069]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-02 10:26:57,440 [4491922]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (14)!!! 
+2021-04-02 10:26:57,447 [4491929]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 10:26:57,454 [4491936]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 10:27:11,805 [4506287]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (22)!!! 
+2021-04-02 10:28:07,461 [4561943]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (19)!!! 
+2021-04-02 10:28:07,463 [4561945]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (19)!!! 
+2021-04-02 10:28:07,465 [4561947]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (19)!!! 
+2021-04-02 10:28:07,467 [4561949]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (19)!!! 
+2021-04-02 10:29:52,905 [4667387]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-02 10:29:53,128 [4667610]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 10:29:53,133 [4667615]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 10:29:53,135 [4667617]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 10:29:53,137 [4667619]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 10:29:53,138 [4667620]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 10:31:10,807 [4745289]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (145)!!! 
+2021-04-02 10:35:30,626 [5005108]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2021-04-02 10:35:30,633 [5005115]   WARN - ConfigurableExtensionPointUtil - use other group instead of unexpected one: build.android 
+2021-04-02 10:35:55,245 [5029727]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-02 10:48:48,522 [5803004]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (11)!!! 
+2021-04-02 10:48:49,054 [5803536]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-02 10:48:49,055 [5803537]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-02 11:25:39,070 [8013552]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 11:25:39,076 [8013558]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 11:25:39,077 [8013559]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (15)!!! 
+2021-04-02 11:34:27,388 [8541870]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (27)!!! 
+2021-04-02 11:34:27,403 [8541885]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (27)!!! 
+2021-04-02 11:34:27,404 [8541886]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (27)!!! 
+2021-04-02 11:34:27,646 [8542128]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (33)!!! 
+2021-04-02 11:34:27,672 [8542154]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (33)!!! 
+2021-04-02 11:34:28,999 [8543481]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (19)!!! 
+2021-04-02 11:34:29,001 [8543483]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (19)!!! 
+2021-04-02 11:34:29,526 [8544008]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (30)!!! 
+2021-04-02 11:34:29,530 [8544012]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (30)!!! 
+2021-04-02 11:34:29,532 [8544014]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (30)!!! 
+2021-04-02 11:55:27,859 [9802341]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-02 11:55:27,867 [9802349]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-02 11:55:28,158 [9802640]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (14)!!! 
+2021-04-02 11:55:30,122 [9804604]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-02 11:55:30,870 [9805352]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (18)!!! 
+2021-04-02 11:55:30,889 [9805371]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (18)!!! 
+2021-04-02 11:55:43,647 [9818129]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-02 11:55:43,653 [9818135]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-02 11:55:43,653 [9818135]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (13)!!! 
+2021-04-02 12:17:39,225 [11133707]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-02 12:25:47,705 [11622187]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (19)!!! 
+2021-04-02 12:25:47,707 [11622189]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (19)!!! 
+2021-04-02 12:30:19,303 [11893785]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
+2021-04-02 12:35:54,181 [12228663]   WARN - com.intellij.ide.IdeEventQueue - Too many mouse clicks (12)!!! 
